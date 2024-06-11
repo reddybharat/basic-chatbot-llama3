@@ -1,2 +1,3 @@
-# basic-chatbot-llama3
-A basic chatbot using LLama3 from Ollama
+# Basic Chatbot using Llama3
+
+Using a local LLM with the help of Ollama, have created a basic chatbot.
